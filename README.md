@@ -1,2 +1,2 @@
-# inventarisummat
-inventaris-ummat
+# inventaris-sekolah
+ Sistem Inventaris Sekolah
